@@ -176,9 +176,8 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 15. click on debug and simulate using simulation as shown below 
 ## CIRCUIT DIAGRAM 
 
-![268984708-70fbf43a-c14b-457b-9902-ac5dcd285bcc](https://github.com/panimalarponnurangam/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/121490826/6449d014-f837-4a20-b751-6f49a3380e21)
 
-
+![268984708-70fbf43a-c14b-457b-9902-ac5dcd285bcc](https://github.com/panimalarponnurangam/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/121490826/026e578d-c340-489b-af9b-1bfd8c1bcd92)
 
 
 
